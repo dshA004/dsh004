@@ -1,9 +1,9 @@
 <!-- HEADER / TYPING EFFECT -->
 <h1 align="center">Hi 👋, I'm Dsha</h1>
-<h3 align="center">☕ + 💻 From Coffee Cups to Code Linesh3>
+<h3 align="center">☕ + 💻 From Coffee Cups to Tech>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?lines=Learning+AI+and+Python;Building+my+future+step+by+step;From+Barista+to+Tech;Stay+curious+🚀&center=true&width=500&height=50](https://www.pinterest.com/pin/638596422204763099/)">
+  <img src="[[https://readme-typing-svg.herokuapp.com?lines=Learning+AI+and+Python;Building+my+future+step+by+step;From+Barista+to+Tech;Stay+curious+🚀&center=true&width=500&height=50](https://www.pinterest.com/pin/638596422204763099/)](https://www.pinterest.com/pin/638596422204763099/)">
 </p>
 
 ---
