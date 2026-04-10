@@ -5,8 +5,7 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="![Banner](./![Unique Coffee Cup Tattoo Ideas for Your Next Ink](https://github.com/user-attachments/assets/af40dc45-387b-4850-85d3-c4f8c308f06b)
-.jpg)"/>
+  <img src="![Banner](./Unique Coffee Cup Tattoo Ideas for Your Next Ink.jpg)"/>
 </p>
 
 ---
