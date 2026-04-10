@@ -5,7 +5,7 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="![Banner](./Unique Coffee Cup Tattoo Ideas for Your Next Ink.jpg)"/>
+  <img src=""/>
 </p>
 
 ---
@@ -28,11 +28,11 @@
 ## 🚀 My Journey
 
 <p align="center">
-  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=24277285507832244" height="455" width="236" frameborder="0" scrolling="no" ></iframe>"/>
+  <img src=""/>
   ➡️
-  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=23573598047681741" height="454" width="236" frameborder="0" scrolling="no" ></iframe>"/>
+  <img src=""/>
   ➡️
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
+  <img src=""/>
 </p>
 
 **From:**
@@ -57,7 +57,7 @@
 ## 📈 Growth Mindset
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f" width="500"/>
+  <img src=""/>
 </p>
 
 - Learning step by step  
