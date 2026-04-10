@@ -33,9 +33,9 @@
 ## 🚀 My Journey
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/coffee.png"/>
+  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=24277285507832244" height="455" width="236" frameborder="0" scrolling="no" ></iframe>"/>
   ➡️
-  <img src="https://img.icons8.com/color/96/laptop.png"/>
+  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=23573598047681741" height="454" width="236" frameborder="0" scrolling="no" ></iframe>"/>
   ➡️
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
 </p>
@@ -88,14 +88,6 @@
 - 🌐 Learn Web Development  
 - 📚 Improve problem-solving skills  
 - 🚀 Transition from barista to tech professional
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/deeb100401"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-</p>
 
 ---
 
