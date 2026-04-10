@@ -5,7 +5,8 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=638596422204763099" height="287" width="345" frameborder="0" scrolling="no" ></iframe>"/>
+  <img src="![Banner](./![Unique Coffee Cup Tattoo Ideas for Your Next Ink](https://github.com/user-attachments/assets/af40dc45-387b-4850-85d3-c4f8c308f06b)
+.jpg)"/>
 </p>
 
 ---
