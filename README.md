@@ -2,15 +2,10 @@
 <h1 align="center">Hi 👋, I'm Dsha</h1>
 <h3 align="center">☕ + 💻 From Coffee Cups to Tech>
 
-<p align="center">
-  <img src="https://www.pinterest.com/pin/638596422204763099/">
-</p>
-
----
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" width="800" height="300"/>
+  <img src="[https://images.unsplash.com/photo-1518770660439-4636190af475" width="800" height="300](https://www.pinterest.com/pin/638596422204763099/)"/>
 </p>
 
 ---
